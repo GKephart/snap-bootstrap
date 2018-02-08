@@ -1,0 +1,15 @@
+.nav{
+	background-color: darkcyan;
+}
+
+
+/*corrects IE min-height bug*/
+html { display: flex;}
+body { width: 100%;}
+
+.sfooter {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
+
