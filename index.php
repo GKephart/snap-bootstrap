@@ -44,27 +44,12 @@
 							<a class="dropdown-item" href="#">Something else here</a>
 						</div>
 					</li>
-					<li class="nav-item">
-						<a class="nav-link disabled" href="#">Disabled</a>
-					</li>
 				</ul>
 			</div>
 		</nav>
 	<br>
 		<div class="container-fluid">
-			<div class="row">
-				<div class="col-md-12">
-					<p>
-					God, Grandpa, you're such a ****. Me irresponsible? All I wanted was for you to hand me a screwdriver! But instead you had me buckle down and make you a roofie juice serum, so you can roofie that poor girl at your school. W-w-w-w--are you kidding me, Morty?! You're really gonna try to take the high road on this one? Y'know your-you're a little creep, Morty! Your-your-your-you're just a little creepy creep person! Right, Crocubot. So, you're half cold unfeeling reptile, half also cold equally unfeeling machine? You're growing up fast, Morty. You're going into a great big thorn straight into my ass.
-
-					We are created to serve a singular purpose, for which we will go to any lengths to fulfill! Wow, so your origin is what? You fell into a vat of redundancy? Ooohhh can do. Listen, Morty, I hate to break it to you but what people call "love" is just a chemical reaction that compels animals to breed. It hits hard, Morty, then it slowly fades, leaving you stranded in a failing marriage. I did it. Your parents are gonna do it. Break the cycle, Morty. Rise above. Focus on science.
-
-					They're not infinite universes left in sync with the show. Yo! What up my glip glops! You sold a gun to a murderer so you could play video games? This aftershave made women want me, but it also made me impotent!
-
-					He threatened to turn me in to the government, so I made him and the government go away! That's Right Morty! This is gonna be a lot like that. Except you know. It's gonna make sense. Isn't it obvious Morty? I froze him. My sister died in the spaghetti.
-					</p>
-				</div>
-			</div>
+			<div class="row"></div>
 		</div>
 
 	</body>
