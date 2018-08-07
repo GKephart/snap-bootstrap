@@ -62,58 +62,51 @@
 				<div class="card-deck">
 
 					<div class="card border-light mb-5	">
-						<div class="card-header">Header</div>
+						<div class="card-header ">Riker</div>
 						<div class="card-body">
-							<h5 class="card-title">Light card title</h5>
-							<p class="card-text">Some quick example text to build on the card title and make up the bulk of the
-								card's content.</p>
+							<h5 class="card-title"></h5>
+							<p class="card-text">Captain, why are we out here chasing comets? Talk about going nowhere fast. The game's not big enough unless it scares you a little. Your head is not an artifact! </p>
 						</div>
 					</div>
 
 					<div class="card border-primary mb-5">
-						<div class="card-header">Header</div>
+						<div class="card-header">Ipsum</div>
 						<div class="card-body">
-							<h5 class="card-title">Light card title</h5>
-							<p class="card-text">Some quick example text to build on the card title and make up the bulk of the
-								card's content.</p>
+							<p class="card-text">I've had twelve years to think about it. And if I had it to do over again, I would have grabbed the phaser and pointed it at you instead of them.</p>
 						</div>
 					</div>
 
 					<div class="card border-danger mb-5">
-						<div class="card-header">Header</div>
+						<div class="card-header">===</div>
 						<div class="card-body">
-							<h5 class="card-title">Light card title</h5>
-							<p class="card-text">Some quick example text to build on the card title and make up the bulk of the
-								card's content.</p>
+							<p class="card-text">Well, that's certainly good to know. I'll be sure to note that in my log. My oath is between Captain Kargan and myself. Your only concern is with how you obey my orders. </p>
 						</div>
 					</div>
 
 					<div class="card border-warning mb-5">
-						<div class="card-header">Header</div>
+						<div class="card-header">&#10084;</div>
 						<div class="card-body">
-							<h5 class="card-title">Light card title</h5>
-							<p class="card-text">Some quick example text to build on the card title and make up the bulk of the
-								card's content.</p>
+							<p class="card-text">Well, that's certainly good to know. I'll be sure to note that in my log. My oath is between Captain Kargan and myself. Your only concern is with how you obey my orders. </p>
 						</div>
 					</div>
 
 				</div>
 
-				<div class="container">
+				<div class="container-fluid">
 					<div class="row">
-						<div class="col-4">Computer, belay that order. Fear is the true enemy, the only enemy. Your shields
+						<div class="col-md-4">Computer, belay that order. Fear is the true enemy, the only enemy. Your shields
 							were failing, sir. Fate. It protects fools, little children, and ships named "Enterprise." I'll
 							alert the crew. The Enterprise computer system is controlled by three primary main processor cores,
 							cross-linked with a redundant melacortz ramistat, fourteen kiloquad interface modules. We have a
 							saboteur aboard.
 						</div>
-						<div class="col-4">Sorry, Data. Besides, you look good in a dress. Damage report! A surprise party?
+						<div class="col-md-4">Sorry, Data. Besides, you look good in a dress. Damage report! A surprise party?
 							Mr. Worf, I hate surprise parties. I would *never* do that to you. Could someone survive inside a
 							transporter buffer for 75 years? For an android with no feelings, he sure managed to evoke them in
 							others. Well, I'll say this for him - he's sure of himself. Some days you get the bear, and some
 							days the bear gets you.
 						</div>
-						<div class="col-4">Maybe if we felt any human loss as keenly as we feel one of those close to us,
+						<div class="col-md-4">Maybe if we felt any human loss as keenly as we feel one of those close to us,
 							human history would be far less bloody. We finished our first sensor sweep of the neutral zone.
 							Fate protects fools, little children and ships named Enterprise. Sure. You'd be surprised how far a
 							hug goes with Geordi, or Worf. Well, that's certainly good to know. I'll be sure to note that in my
