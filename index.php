@@ -57,9 +57,8 @@
 			</div>
 		</nav>
 		<br>
-		<div class="py-2">
+		<main class="py-2">
 			<div class="container-fluid">
-
 				<div class="card-deck">
 
 					<div class="card border-light mb-5	">
@@ -99,9 +98,31 @@
 					</div>
 
 				</div>
-			</div>
 
+				<div class="container">
+					<div class="row">
+						<div class="col-4">Computer, belay that order. Fear is the true enemy, the only enemy. Your shields
+							were failing, sir. Fate. It protects fools, little children, and ships named "Enterprise." I'll
+							alert the crew. The Enterprise computer system is controlled by three primary main processor cores,
+							cross-linked with a redundant melacortz ramistat, fourteen kiloquad interface modules. We have a
+							saboteur aboard.
+						</div>
+						<div class="col-4">Sorry, Data. Besides, you look good in a dress. Damage report! A surprise party?
+							Mr. Worf, I hate surprise parties. I would *never* do that to you. Could someone survive inside a
+							transporter buffer for 75 years? For an android with no feelings, he sure managed to evoke them in
+							others. Well, I'll say this for him - he's sure of himself. Some days you get the bear, and some
+							days the bear gets you.
+						</div>
+						<div class="col-4">Maybe if we felt any human loss as keenly as we feel one of those close to us,
+							human history would be far less bloody. We finished our first sensor sweep of the neutral zone.
+							Fate protects fools, little children and ships named Enterprise. Sure. You'd be surprised how far a
+							hug goes with Geordi, or Worf. Well, that's certainly good to know. I'll be sure to note that in my
+							log.
+						</div>
+					</div>
+				</div>
 
+			</main>
 
 
 	</body>
